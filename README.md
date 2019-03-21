@@ -3,7 +3,7 @@ This is a simple python script to create midi-files from text-files containing s
 
 The script already contains a couple of common 7, 6 and 5 note scales
 
-You can choose between even lengths on the notes, note length base on the edge-weight of the graph of the superpermutation and note lengths based on the distance to neighbouring elements of the same type.
+You can choose between even lengths on the notes, note lengths based on the edge-weight of the graph of the superpermutation and note lengths based on the distance to neighbouring elements of the same type.
 
 ## dependencies
 
